@@ -2,10 +2,14 @@
 
  <a href="https://www.imagensanimadas.com/cat-computadores-56.htm"><img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0400.gif" border="0" alt="computador-imagem-animada-0400" /></a>
 
+##
+
 - 🔭 Atualmente estou em busca do meu primeiro estágio
 - 🌱 Estou aprendendo JavaScript
 - 👯 Estou em busca de aprender mais a cada dia que passa
 - 📫 Como me encontrar: gustavovieira25@live.com
+
+##
 
 <div align="center">
   <a href="https://github.com/GusttavoBR">
@@ -29,9 +33,4 @@
   ![Snake animation](https://github.com/GusttavoBR/GusttavoBR/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-- 🔭 Atualmente estou em busca do meu primeiro estágio
-- 🌱 Estou aprendendo JavaScript
-- 👯 Estou em busca de aprender mais a cada dia que passa
-- 📫 Apaixonado a cada dia que passa pelo mundo da Programação
 
