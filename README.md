@@ -1,4 +1,4 @@
--👱🏻‍♂️ Olá Mundo! Eu sou o Gustavo Vieira
+-👱🏻‍♂️ Olá Mundo! Eu sou Gustavo Vieira
 
  <a href="https://www.imagensanimadas.com/cat-computadores-56.htm"><img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0400.gif" border="0" alt="computador-imagem-animada-0400" /></a>
 
@@ -7,10 +7,10 @@
 - 👯 Estou em busca de aprender mais a cada dia que passa
 - 📫 Como me encontrar: gustavovieira25@live.com
 
-<div align="center">
+<div align="display: inline_block">
   <a href="https://github.com/GusttavoBR">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GusttavoBR&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoBR&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GusttavoBR&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoBR&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Guh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
