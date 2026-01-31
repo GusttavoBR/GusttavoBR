@@ -54,5 +54,5 @@ Estou constantemente a aprimorar as minhas habilidades em **Frontend**, focando 
 </div>
 
 <div align="center">
-  <img src="https://github.com/GusttavoBR/GusttavoBR/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/GusttavoBR/GusttavoBR/output/github-contribution-grid-snake.svg" alt="Animação da Cobra" />
 </div>
