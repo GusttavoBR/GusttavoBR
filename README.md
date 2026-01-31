@@ -1,50 +1,52 @@
 # Olá, eu sou o Gustavo Vieira 👋
 
-### Desenvolvedor Frontend | React & Next.js
+### Desenvolvedor Front-end Júnior | React & Next.js
 
-Sou um entusiasta da tecnologia em busca da minha primeira oportunidade de emprego. Tenho uma base sólida em construção de interfaces modernas e responsivas. Atualmente, o meu foco é dominar o ecossistema **React** e criar experiências de utilizador incríveis, enquanto inicio a minha jornada rumo ao **Full Stack**.
+Focado em criar interfaces modernas, responsivas e de alta performance. Atualmente domino o ecossistema **Frontend** e estou em transição para o **Full Stack**, aprimorando conhecimentos em Backend.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-Tenho experiência prática e projetos construídos com:
-
-<div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn/ui" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn" />
+</div>
+
+---
+
+### 🔭 Objetivos Atuais
+
+* 💼 **Busca Ativa:** Aberto a oportunidades para o meu **primeiro emprego como Desenvolvedor Júnior**.
+* 🌱 **Evolução:** Aprofundando em Node.js e integração de APIs para atuar no Backend.
+* 👯 **Colaboração:** Disponível para contribuir em projetos Open Source e desafios técnicos.
+
+---
+
+### ⚡ GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GusttavoBR&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" />
+  
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GusttavoBR&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
 <br>
 
-### 🔭 O meu Foco Atual
-
-Estou constantemente a aprimorar as minhas habilidades em **Frontend**, focando em performance e UX. Paralelamente, estou a dar os meus primeiros passos no **Backend** para compreender a arquitetura completa de aplicações web.
-
-* 🌱 **Estudando:** Node.js, APIs REST e Integrações.
-* 👯 **Procuro:** Oportunidades de estágio para colaborar em projetos reais.
-
----
-
-### 📫 Onde me encontrar
-
-<div style="display: flex; gap: 10px;">
-  <a href="mailto:gustavovieira25@live.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/gustavo-vieira-arruda-267019175/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GusttavoBR/GusttavoBR/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-### ⚡ Estatísticas do GitHub
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=GusttavoBR&show_icons=true&theme=tokyonight)
+### 📫 Contacto
+
+<a href="mailto:gustavovieira25@live.com">
+  <img src="https://img.shields.io/badge/Email-gustavovieira25@live.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/gustavo-vieira-arruda-267019175/">
+  <img src="https://img.shields.io/badge/LinkedIn-Gustavo_Vieira-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
