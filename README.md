@@ -47,4 +47,4 @@ Estou constantemente a aprimorar as minhas habilidades em **Frontend**, focando 
 ---
 
 ### ⚡ Estatísticas do GitHub
-![Stats de GusttavoBR](https://github-readme-stats.vercel.app/api?username=GusttavoBR)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=GusttavoBR&show_icons=true&theme=tokyonight)
