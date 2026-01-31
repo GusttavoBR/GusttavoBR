@@ -43,12 +43,6 @@ Focado em criar interfaces modernas, responsivas e de alta performance. Atualmen
 
 <br />
 
-<div align="center">
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/GusttavoBR/GusttavoBR/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-  </p>
-</div>
-
 ---
 
 ### 📫 Contacto
