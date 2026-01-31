@@ -46,6 +46,8 @@ Estou constantemente a aprimorar as minhas habilidades em **Frontend**, focando 
 
 ---
 
-### ⚡ GitHub Stats
+### ⚡ Estatísticas do GitHub
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoBR&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Stats de GusttavoBR](https://github-readme-stats.vercel.app/api?username=GusttavoBR&show_icons=true&theme=tokyonight)
+
+![Linguagens de GusttavoBR](https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoBR&layout=compact&theme=tokyonight)
