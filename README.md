@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Frontend | React & Next.js
 
-Sou um entusiasta da tecnologia em busca da minha primeira oportunidade de estágio. Tenho uma base sólida em construção de interfaces modernas e responsivas. Atualmente, o meu foco é dominar o ecossistema **React** e criar experiências de utilizador incríveis, enquanto inicio a minha jornada rumo ao **Full Stack**.
+Sou um entusiasta da tecnologia em busca da minha primeira oportunidade de emprego. Tenho uma base sólida em construção de interfaces modernas e responsivas. Atualmente, o meu foco é dominar o ecossistema **React** e criar experiências de utilizador incríveis, enquanto inicio a minha jornada rumo ao **Full Stack**.
 
 ---
 
