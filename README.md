@@ -29,15 +29,24 @@ Focado em criar interfaces modernas, responsivas e de alta performance. Atualmen
 ### ⚡ GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GusttavoBR&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" />
-  
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GusttavoBR&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GusttavoBR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GusttavoBR&layout=compact&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br>
+<br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GusttavoBR/GusttavoBR/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/GusttavoBR/GusttavoBR/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  </p>
 </div>
 
 ---
