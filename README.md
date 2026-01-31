@@ -48,11 +48,8 @@ Estou constantemente a aprimorar as minhas habilidades em **Frontend**, focando 
 
 ### ⚡ GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GusttavoBR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoBR&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</div>
+### ⚡ GitHub Stats
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GusttavoBR/GusttavoBR/output/github-contribution-grid-snake.svg" alt="Animação da Cobra" />
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GusttavoBR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoBR&layout=compact&theme=tokyonight)
